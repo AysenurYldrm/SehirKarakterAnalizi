@@ -1,14 +1,3 @@
-/****************************************************************************
-**					           SAKARYA ÜNÝVERSÝTESÝ
-**			         BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
-**				          BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
-**				            PROGRAMLAMAYA GÝRÝÞÝ DERSÝ
-**
-**				ÖDEV NUMARASI : Programlamaya Giriþ 1. Ödev
-**				ÖÐRENCÝ ADI : Ayþenur YILDIRIM
-**				ÖÐRENCÝ NUMARASI : G211210007
-**				DERS GRUBU : 2. Öðretim A Grubu
-****************************************************************************/
 
 #include <iostream>
 #include <conio.h>
@@ -22,6 +11,7 @@ int main()
 {
     setlocale(LC_ALL, "Turkish");
     srand(time(0));
+
 
     int maxUzunluk = 0;
     int minUzunluk = 0;
