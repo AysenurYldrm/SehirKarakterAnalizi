@@ -13,6 +13,8 @@ int main()
     srand(time(0));
 
 
+
+
     int maxUzunluk = 0;
     int minUzunluk = 0;
 
